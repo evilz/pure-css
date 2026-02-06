@@ -1,0 +1,3 @@
+# Relax a few rules for small repos and README-heavy projects.
+# https://github.com/DavidAnson/markdownlint
+MD013: false # line-length
